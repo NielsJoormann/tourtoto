@@ -1,0 +1,31 @@
+.background{
+    background-color: #232323;
+}
+
+.loginbg{
+ height:400px;
+ width:500px;
+ background-color: #fabb00;
+ border-radius: 15px 15px 15px 15px;  
+ position:absolute;
+ top:200px;
+ left:500px;
+}
+
+.logintabel{
+    position:absolute;
+    left:100px;
+    top:100px;
+}
+ 
+.header{
+    height: 64px;
+    width: 100%;
+    background-color: red;
+}
+
+.imagebanner{
+    position: relative;
+    left: 512px;
+    height: 150px;
+}
